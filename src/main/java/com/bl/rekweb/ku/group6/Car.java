@@ -8,12 +8,6 @@ public class Car {
     private Tire tire;
     private int door;
 
-    public static void main(String[]Args){
-        String tire = "Hitam";
-        System.out.println("karabinar");
-        System.out.println(tire);
-    }
-
     public void forward(){
         System.out.println("Majuuuuuuu");
     }
