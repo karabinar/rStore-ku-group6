@@ -15,7 +15,7 @@ public class Car {
     }
 
     public void forward(){
-
+        System.out.println("Majuuuuuuu");
     }
 
     public void backward(){
