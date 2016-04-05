@@ -10,7 +10,8 @@ public class App {
     public static void main(String[]Args){
 
         Car car = new Car();
-
         Car avanza = new Car();
+
+        avanza.forward();
     }
 }

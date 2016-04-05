@@ -5,7 +5,7 @@ package com.bl.rekweb.ku.group6;
  */
 public class Car {
 
-    private int tire = 2;
+    private Tire tire;
     private int door;
 
     public static void main(String[]Args){
